@@ -1,0 +1,1872 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pilgrim's passage in poesie To the palace beautiful, in the chamber of peace. Ager scholæ, A.M.</title>
+         </titleStmt>
+         <extent>Approx. 70KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54881</idno><idno type="EEBO-CITATION">99830481</idno>
+  <idno type="VID">34933</idno>
+  <idno type="EEBO-PROQUEST">2240883589</idno>
+  
+            <idno type="STC">Wing P2232A</idno>
+            <idno type="STC">ESTC R218930</idno>
+            <idno type="PROQUEST">99830481</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830481e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34933)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2074:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pilgrim's passage in poesie To the palace beautiful, in the chamber of peace. Ager scholæ, A.M.</title>
+               </titleStmt>
+               <extent>[4], 33, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Bound with Wing P2232B.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34933:1"/>
+            <p>THE <hi>Pilgrim's Passage</hi> IN POESIE. TO THE Palace <hi>Beautiful,</hi> IN THE Chamber of <hi>PEACE.</hi>
+            </p>
+            <p>
+               <hi>Ager Scholae,</hi> A. M.</p>
+            <q>
+               <p>A Syrian ready to perish was my Father. <bibl>
+                     <hi>Deut. 26.5.</hi>
+                  </bibl>
+               </p>
+               <p>Let the word of Christ dw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll in you richly, in all wisdom; teaching and admonishing one another in Psalms and Hymns, and Spiritual Songs, singing with Grace in your Hearts to the Lord, <bibl>
+                     <hi>Col. 3.16.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by the Booksellers of <hi>London</hi> and <hi>West<g ref="char:EOLhyphen"/>minster.</hi> 1697.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34933:2"/>
+            <pb facs="tcp:34933:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:34933:3"/>
+            <pb facs="tcp:34933:3"/>
+            <head>TO THE Charitable Reader.</head>
+            <p>
+               <hi>BOoks</hi> in our <hi>Studies,</hi> share in our Favour, as Chil<g ref="char:EOLhyphen"/>dren in our Families; some one carries the Belt: And so we please our selves by Habits, or Chara<g ref="char:EOLhyphen"/>cters of Distinction.</p>
+            <p>Either in the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st, as <hi>Joseph</hi> by his Father; or in the second, as <hi>Jacob</hi> by his Mother, managing her Project e<g ref="char:EOLhyphen"/>ven to a stealing of the Blessing.</p>
+            <p>The Lot of Fondness, oft falls upon the least, or young<g ref="char:EOLhyphen"/>est Child; which, tho it may not speak as well as the Elder, yet may have some Marks of a deep Judgment, and Excel<g ref="char:EOLhyphen"/>lent Invention; The very Endowments which drew my Affections to the <hi>Pilgrim's Progress.</hi> So I took the <hi>Pil<g ref="char:EOLhyphen"/>grim</hi> to my own Glass, ambitious to dress him for my own pleasure.</p>
+            <p>It's well I had no higher Thoughts; for as I went on in the Dressing-Room, Art so often fail'd me, that I was rea<g ref="char:EOLhyphen"/>dy to throw up All; as looking far better in his plain Cloaths, than by all the Lacing, Pricking, and Pinning, that I could afford him. Yet sometimes I thought better; and as a beautiful Child, that looks well at one time, and shows Courser at another, so did the <hi>Pilgrim</hi> in my Eye; Insomuch, I was ready to say, as some Parents, of a worse-favour'd Child; <hi>But thou art my own, I could fling thee away.</hi> And thus disputing it with my self, what to do, in comes a bold thought, saying, Nay, hold! don't do so. Thou hast had other thoughts of it thy self; and so may another man; tho at first he dislike it, ano<g ref="char:EOLhyphen"/>ther time it may look better.</p>
+            <q>
+               <l>Thus was this Dressing</l>
+               <l>Rescu'd from the Grave.</l>
+            </q>
+            <pb facs="tcp:34933:4"/>
+            <p>But the main Encouragement was another Thought, grounded on a passage in Divine <hi>Herbert:</hi>
+               <q>
+                  <l>A Verse may find him</l>
+                  <l>That a Sermon flies.</l>
+               </q>
+            </p>
+            <p>This afforded fresh Vigour and Resolution; So it went on, only with this Emulation in the Foulds of Love: That I had but more of the Rare Spirit of that Divine Man! A double; nay, a single; nay, a quarter would have pleas'd me well: But every man is answerable according to his own receiving, and not other mens.</p>
+            <p>And because every one has receiv'd some, to bury, tho but one Talent, and a small one too, would be hereafter a dangerous Witness.</p>
+            <p>I present thee then, Christian Reader! tho in mean Or<g ref="char:EOLhyphen"/>naments, a person of most Noble Extract, the Christian Pilgrim.</p>
+            <p>Was he now to be seen in his shining Rayments of Light, in his Father's Kingdom, thou must acknowledg this poor Dr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss could not effect or lessen him. Yet might it but affect my self, and any here below with me, I should think I was one st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p higher in this Kingdom of Grace; So to stand fair for advancement in the Kingdom of Glory; not far off every Believer in Christ Jesus.</p>
+            <p>And thus I commit thee to the Divine Protection: for the present, thus bespeaking thy Candid Censure.</p>
+            <q>
+               <l>Freedom, oft breeds Contempt,</l>
+               <l>We hear it said:</l>
+               <l>So Books Read best of all</l>
+               <l>When th' Author's Dead.</l>
+               <l>Death maketh all things stink;</l>
+               <l>Provided Ever,</l>
+               <l>Mens Labours then, are</l>
+               <l>Either Sweet, or Never.</l>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:34933:4"/>
+            <head>THE <hi>Pilgrim's Passage</hi> IN POESIE: PART I.</head>
+            <l>THrough this World's Wilderness, poor Pilgrim, I</l>
+            <l>Wandering, at length a Den I did espy;</l>
+            <l>Where lying down, I dream'd, and thought I see</l>
+            <l>A Man in Raggs, full of Perplexity,</l>
+            <l>Some distance from his house: A Book in hand,</l>
+            <l>A great <hi>Back-burthen,</hi> there I found him stand,</l>
+            <l>Reading, and weeping, shaking, trembling too:</l>
+            <l>Still crying out, <hi>Sirs! Sirs! what shall I do!</hi>
+            </l>
+            <l>Home then he went in this same very Plight,</l>
+            <l>To Wife and Children; striving all he might</l>
+            <l>To hold his Grief: But this he could not long,</l>
+            <l>Growing so fast; at last it prov'd too strong:</l>
+            <l>So he burst out, saying in bitter Passion,</l>
+            <l>Harken, my nearest, dearest of Relation,</l>
+            <l>Children and Wife! I am a Man undone;</l>
+            <l>Our City must be burnt; and where to Run,</l>
+            <l>Do I not know: Besides, this heavy Load</l>
+            <l>My Flight will hinder, and much incommode</l>
+            <l>All our Escapes. On this, a great Surprize</l>
+            <l>Seiz'd his whole House; his Wife and Childrens Eyes</l>
+            <pb n="2" facs="tcp:34933:5"/>
+            <l>Gusht out with Tears: not that they Credit gave</l>
+            <l>To what he said; but thought th' poor man did Rave.</l>
+            <l>Yet hop't the best, and also for some Gains</l>
+            <l>By a Nights sleep, to th' settling of his Brains:</l>
+            <l>Which still prevailed not, whilst Grief and Fears</l>
+            <l>Prevented sleep, somented so his Tears.</l>
+            <l>Friends seeing this, sometime they do deride him,</l>
+            <l>To drive away sad thoughts: sometimes they chide him.</l>
+            <l>Failing in these, they fall even to Neglects;</l>
+            <l>Seemingly draw off all their due Respects.</l>
+            <l>Finding they meant well under their mistake,</l>
+            <l>He to his Chamber went, and there did make</l>
+            <l>Prayers for them, that they might clearly see;</l>
+            <l>And for himself, condol'd his misery.</l>
+            <l>Into the Field he takes: In each Apartment</l>
+            <l>He pray'd, &amp; read, &amp; show'd forth what his heart meant.</l>
+            <l>This I observ'd; and oft times thus he crav'd,</l>
+            <l>What shall I do, Lord, that I may be sav'd?</l>
+            <l>I saw him look this way, and that way too,</l>
+            <l>As one that could not tell what he would do.</l>
+            <l>He had not long stood there, but to assist</l>
+            <l>There comes a Man, named <hi>Evangelist,</hi>
+            </l>
+            <l>Asking the Reason of so great a Cry?</l>
+            <l>He answer'd, Sir, I am condemn'd to die!</l>
+            <l>After to Judgment, saith this very Book;</l>
+            <l>Neither of which, at all, can I once look</l>
+            <l>To find my self in any kind of haste;</l>
+            <l>To will the former, or to wish the last.</l>
+            <l>What, loth to die! <hi>Evangelist</hi> reply'd,</l>
+            <l>To quit this Grief, and many more beside.</l>
+            <l>I am indeed, straightway the poor man said,</l>
+            <l>Fearing this burden that is on me laid,</l>
+            <l>Will sink me so, that I am like to have</l>
+            <l>My Lodging Deeper, Darker than the Grave.</l>
+            <pb n="3" facs="tcp:34933:5"/>
+            <l>Then said <hi>Evangelist,</hi> if this be so,</l>
+            <l>Haste, man! make haste, don't stand still, but go.</l>
+            <l>I know not whither, for my Heart and Soul,</l>
+            <l>Said the poor man. Then take this <hi>Parchment Roll,</hi>
+            </l>
+            <l>Reply'd <hi>Evangelist:</hi> For Rules therefrom</l>
+            <l>Thou hast, will teach thee fly from wrath to come.</l>
+            <l>He read, and looking to <hi>Evangelist,</hi>
+            </l>
+            <l>Said carefully, as being in a Mist,</l>
+            <l>Where must I fly? <hi>Evangelist</hi> then said,</l>
+            <l>O're that wide Field: And then a point he made</l>
+            <l>At a small Wicket-Gate: See that, said he!</l>
+            <l>I can't cry'd the man: Then can you see</l>
+            <l>That <hi>shining Light?</hi> He said, I think I do.</l>
+            <l>There fix your Eye, be sure, straight thither go,</l>
+            <l>Said good <hi>Evangelist;</hi> so see the Gate;</l>
+            <l>There knock, and have a true and perfect State,</l>
+            <l>Of the best measures for a Pilgtim's Walk:</l>
+            <l>So the man Run, and staid no further talk.</l>
+            <l>But as he went, not far from his own Door,</l>
+            <l>His Children make sad Noise, they Cry and Roar:</l>
+            <l>Stopping his Ears against his very Wife,</l>
+            <l>He Run, and Cry'd, <hi>Life, Life, Eternal Life.</hi>
+            </l>
+            <l>Towards the Plain he took, ne'r look't behind him,</l>
+            <l>And that full fast, as far as I could mind him.</l>
+            <l>Neighbours came out to see; some chide, some scorn;</l>
+            <l>Some cry out after him, Return! Return!</l>
+            <l>Of them that did so, two, more Rough and Course</l>
+            <l>Went. and resolv'd to fetch him back by force.</l>
+            <l>
+               <hi>Pliable, Obstinate,</hi> these two were nam'd,</l>
+            <l>The latter knew not how to be asham'd.</l>
+            <l>When they o're-took him; for he made good way,</l>
+            <l>The man said, Neighbours, wbat is it ye say?</l>
+            <l>Return with us, we say, reply'd the men.</l>
+            <l>Put hand to Plow, after look back again?</l>
+            <pb n="4" facs="tcp:34933:6"/>
+            <l>Then <hi>Christian</hi> said; for that was his true Name,</l>
+            <l>Our City where we dwell will come to shame,</l>
+            <l>And sad destruction, earlier, or late;</l>
+            <l>And we returning, run the self same Fate.</l>
+            <l>Of <hi>Sodom</hi>'s Sulphry Flames they sure did taste,</l>
+            <l>Who liv'd in <hi>Sodom</hi> to the very last.</l>
+            <l>Good Neighbours, be content, and go with me.</l>
+            <l>Leave Friends, said <hi>Obstinate!</hi> Then Fools are we.</l>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Who changes for the worse, Fools you may call;</l>
+               <l>But see one Friend that's better than 'em all.</l>
+               <l>Keep but close to him, after he is found;</l>
+               <l>Prove but my words, I'le warrant you they'r sound.</l>
+            </sp>
+            <sp>
+               <speaker>Obst.</speaker>
+               <l>What hath he whom thou seek'st? Can he bestow</l>
+               <l>Fairer Possessions than are here below?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Those if you lose but, all your harm and loss,</l>
+               <l>Compar'd with his Rich Gifts, are meerly Dross.</l>
+               <l>I count them so, do not you too? Else look</l>
+               <l>Here in my Hand, the Contents of this Book.</l>
+            </sp>
+            <sp>
+               <speaker>Obst.</speaker>
+               <l>Away with all your Books: Home will you go?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>I told you once: <hi>I vow</hi> I can't do so.</l>
+            </sp>
+            <sp>
+               <speaker>Obst.</speaker>
+               <l>Come Neighbour <hi>Pliable,</hi> let's turn again</l>
+               <l>Without him; for say what you will, it's vain:</l>
+               <l>Urge not these <hi>Crazy Heads, Coxcombs, sad Tools:</hi>
+               </l>
+               <l>For as you find them, so you'll leave them Fools.</l>
+            </sp>
+            <sp>
+               <speaker>Pl.</speaker>
+               <l>Don't Revile where there's so little Cause;</l>
+               <l>What <hi>Christian</hi> speaks, is Truth; and those good Laws</l>
+               <l>Hold in his hand, do all our Laws exceed:</l>
+               <l>Go with him then will I; I will indeed.</l>
+            </sp>
+            <sp>
+               <speaker>Obst.</speaker>
+               <l>You'r very Rash: I'm sorry you have said thus:</l>
+               <l>This sick-brain'd Fellow, whither may he lead us?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Nay, but do <hi>thou</hi> come; <hi>Pliable</hi>'s i'th' right,</l>
+               <l>Thou shalt see Objects that will please thy sight,</l>
+               <l>And all thy Senses too: it's purchas't Good.</l>
+               <l>See this <hi>New Testament,</hi> that's seal'd with Blood,</l>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:34933:6"/>
+               <speaker>Pl.</speaker>
+               <l>Well, Neighbour <hi>Obstinate,</hi> this course I'le steer;</l>
+               <l>But <hi>Christian</hi> does not know the Road, I fear.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>To a small Gate, as told, my Course I frame,</l>
+               <l>Where we'll know more. <hi>Evangelist</hi>'s his Name,</l>
+               <l>Who shew'd me first the Light for my direction.</l>
+            </sp>
+            <sp>
+               <speaker>Pl.</speaker>
+               <l>Come, Brother, then let's go with all Affection.</l>
+            </sp>
+            <sp>
+               <speaker>Obst.</speaker>
+               <l>But I'le go home: I'le ne'r blow with the Bellows</l>
+               <l>Of these <hi>Phantastick, Whimsey-headed Fellows.</hi>
+               </l>
+               <l>Then in my Dream, when <hi>Obstinate</hi> was gone</l>
+               <l>Over the Plain, I saw these two alone.</l>
+               <l>This was their talk: I'm glad the <hi>Christian</hi> said,</l>
+               <l>
+                  <hi>Obstinate</hi>-like, you have not been afraid.</l>
+               <l>Had even he, as I, been tost and hurl'd;</l>
+               <l>Felt what I feel, as to the other world;</l>
+               <l>Powers, and Terrors of things yet unseen,</l>
+               <l>Thus to draw back, so fond he'd ne're have been:</l>
+            </sp>
+            <sp>
+               <speaker>Pl.</speaker>
+               <l>Come, Neighbour <hi>Christian</hi> (now we're all alone)</l>
+               <l>With them above what's to be had, or done?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>E're this Point's gain'd, I fear it will be long;</l>
+               <l>Or ready as my Heart, to find my Tongue.</l>
+               <l>But this; an Endless Kingdom's there, be sure,</l>
+               <l>Crowns, that more glorious, are, and far more pure</l>
+               <l>Than here below: Garments more fine than Light;</l>
+               <l>The Sun it self does not shine half so bright.</l>
+               <l>No Sorrow's there, nor Tears on any Face;</l>
+               <l>These are wip't off by th' owner of the place.</l>
+               <l>
+                  <hi>Cherubims, Angels, Seraphims,</hi> are there;</l>
+               <l>Whose Glory can't be look't on, were they here.</l>
+               <l>Thousands, Ten Thousands, that are gone before;</l>
+               <l>And entered within the Glorious Door,</l>
+               <l>There you shall meet: Hurtful no more are they;</l>
+               <l>But Loving, Holy, Righteous, Good alway.</l>
+               <l>There you'll see <hi>Elders</hi> with their Golden Crowns;</l>
+               <l>And <hi>Virgins</hi> with their Golden Harps; whose Sounds</l>
+               <pb n="6" facs="tcp:34933:7"/>
+               <l>Of Melody, Ravish most Curious Ears.</l>
+               <l>The Glorious <hi>Martyr</hi> also there appears,</l>
+               <l>Though cut in peices, burnt, and butcher'd; so</l>
+               <l>Cruelly us'd; in sunder sawn below;</l>
+               <l>Eaten of Beasts, drown'd in the Sea; for Love</l>
+               <l>He firmly bore unto his Lord above,</l>
+               <l>All cloath'd in Garments of immortal Bliss,</l>
+               <l>In that Rich Place where no worse Rayment is.</l>
+            </sp>
+            <sp>
+               <speaker>Pl.</speaker>
+               <l>O Ravishing Report! But how shall I</l>
+               <l>Get this Possession, and as sure Enjoy?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>These Glorious Mansions have a supream Lord:</l>
+               <l>His the whole Mannor is; This his Record,</l>
+               <l>Here in my hand. He would have all men know it;</l>
+               <l>Willing but they; he's ready to bestow it.</l>
+            </sp>
+            <sp>
+               <speaker>Pl</speaker>
+               <l>How glad am I! Let's haste; we don't go.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>This heavy burden forces me walk slow.</l>
+               <l>In my Dream, further, I saw well enough,</l>
+               <l>They drew near to a filthy, miry Slough,</l>
+               <l>Called <hi>Dispond;</hi> but they both wanting heed,</l>
+               <l>In the deep Bogg were fouly fast indeed.</l>
+               <l>
+                  <hi>Pliable</hi> said, <hi>Christian!</hi> where are we now?</l>
+               <l>
+                  <hi>Christian</hi> reply'd, Truly I do not know.</l>
+               <l>Now <hi>Pliable</hi> begun to be offended:</l>
+               <l>Nor more heard I, the Christian way commended</l>
+               <l>By <hi>Pliable;</hi> who said, if thus, my Friend,</l>
+               <l>What may we find before our Journey End?</l>
+               <l>May I escape with Life, and hence go free!</l>
+               <l>Take your brave Countrey your self, for me.</l>
+               <l>With that he try'd a desperate struggle or two,</l>
+               <l>On that side towards his House; and it did do;</l>
+               <l>For he came out: and straight homewards he bore:</l>
+               <l>And <hi>Christian</hi> striving, fasten'd more and more;</l>
+               <l>So great his Load: Yet for all his sad Fate,</l>
+               <l>He fled from <hi>home-side,</hi> towards the <hi>Wicket-Gate:</hi>
+               </l>
+               <pb n="7" facs="tcp:34933:7"/>
+               <l>Until at length there happily came by</l>
+               <l>One <hi>Help,</hi> who said, how came you here, and why?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>I was advis'd by one to take this Path,</l>
+               <l>That I might fly from an approaching Wrath.</l>
+            </sp>
+            <sp>
+               <speaker>Help.</speaker>
+               <l>Why look't you not for steps? even here, just by?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Fear follow'd me so close, drove me a wry.</l>
+               <l>Give me thy hand, said <hi>Help;</hi> sometimes I'm found:</l>
+               <l>That done, he pull'd, and brought him to safe ground;</l>
+               <l>Bidding him go: But I, desirous</l>
+               <l>To learn of him who helpt poor <hi>Christian</hi> thus;</l>
+               <l>Said in my Dream, Sir! since to yonder Gate,</l>
+               <l>This is the way from that <hi>Destructive</hi> State;</l>
+               <l>Why don't the Countrey Joyn, and mend this Plat;</l>
+               <l>For more Security; <hi>at any rate?</hi>
+               </l>
+               <l>He said. Good Sir, This is the Common Sink</l>
+               <l>It's very plain: and so all Wise Men think;</l>
+               <l>Where Scums and Filths of Sin (seen by Conviction)</l>
+               <l>For <hi>Randevows,</hi> in days of Old, did six on.</l>
+               <l>A Sinner waken'd, seeing his lost State,</l>
+               <l>There rises in his Soul such a debate</l>
+               <l>Of Fears; small Hopes, great Doubts; sad Apprehension</l>
+               <l>Of things more dreadful far than we can mention:</l>
+               <l>These settle here; which is, as you have found,</l>
+               <l>The Cause of this sad, Boggy, rotten, ground.</l>
+               <l>Not the King's pleasure neither, that it's thus:</l>
+               <l>He sends forth <hi>Workmen</hi> most laborious;</l>
+               <l>Who sixteen hundred years, I'm sure, and more,</l>
+               <l>Having <hi>Surveyors</hi> of the work set o're</l>
+               <l>By the King's Majesty; to have it mended,</l>
+               <l>Thousands, yea Millions, of Cart Loads have spended;</l>
+               <l>Fill'd with Instructions, <hi>at all seasons</hi> too;</l>
+               <l>Have done its Plain as much as men <hi>can</hi> do:</l>
+               <l>Materials of the best: Do what they will,</l>
+               <l>This keeps its Name, the Slough of <hi>Dispond</hi> still.</l>
+               <pb n="8" facs="tcp:34933:8"/>
+               <l>By the direction of the Legislator,</l>
+               <l>Are placed Steps; For foul and filthy matter</l>
+               <l>Breaks out, as hath been known, oft and again,</l>
+               <l>At change of Weather, bringing Wind, or Rain.</l>
+               <l>Mens Dizzy Heads, causes 'em slip aside;</l>
+               <l>For all these Steps are here: But Run or Ride</l>
+               <l>You may, and that too at a good round rate,</l>
+               <l>When past this place, and got within the <hi>Gate.</hi>
+               </l>
+               <l>By this time, now, all on a sweat and foam,</l>
+               <l>Our fretting <hi>Pliable</hi> was just got home,</l>
+               <l>As in my Dream I saw: Friends flocking in;</l>
+               <l>Some Wise Man, Fool, some Coward, calling him;</l>
+               <l>He sneaking there: But afterwards this <hi>Crack,</hi>
+               </l>
+               <l>Joyning with rest, laid all on <hi>Christian's</hi> Back;</l>
+               <l>Whom now I saw, and heard groaning i'th Road,</l>
+               <l>Perceiving well, Scorn can increase a Load.</l>
+               <l>As <hi>Christian</hi> travell'd thus, I saw another</l>
+               <l>Meet him, just as their ways crost each the other;</l>
+               <l>He who met <hi>Christian,</hi> was a man of Fame;</l>
+               <l>A Gentleman; and <hi>Worldly-Wit</hi> his Name.</l>
+               <l>The Town of <hi>Carnal Polic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> his home,</l>
+               <l>And not far off the Town whence <hi>Christian</hi> came.</l>
+               <l>This man hearing great talk (as like to be</l>
+               <l>When Men go far and near New Sights to see)</l>
+               <l>The weary steps which the poor <hi>Christian</hi> made,</l>
+               <l>His strugling with foul way, and sighing Trade,</l>
+               <l>So well described this poor man, alas!</l>
+               <l>That <hi>Worldly wit</hi> soon guessed who he was.</l>
+               <l>Saying, Good Fellow, whither with this Load?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>A Load indeed, and a sad dirty Road.</l>
+               <l>But as to th' place I'm for; sooner or late,</l>
+               <l>I hope to pass through yonder Wicket-Gate:</l>
+               <l>For there, I'm told, I shall know how and where,</l>
+               <l>To rid my self of this great Load I bear.</l>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:34933:8"/>
+               <speaker>Wor.</speaker>
+               <l>Hast thou a Wife and Children, or no?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>I have, and yet I am now burden'd so,</l>
+               <l>Mythinks I am as tho I was without.</l>
+            </sp>
+            <sp>
+               <speaker>Wor.</speaker>
+               <l>Hear but, and I'le advise thee well, ne're doubt.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>If good, I will; for I have need of such.</l>
+            </sp>
+            <sp>
+               <speaker>Wor.</speaker>
+               <l>Throw down thy Load, and that will ease thee much.</l>
+               <l>Thou hast Variety, but 'twill not please;</l>
+               <l>Thy thoughts still Rolling, like the restless Seas.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>This weight to part with is my great design;</l>
+               <l>Causes my coming, this way, at this time.</l>
+               <l>I can't take it off my self; and none</l>
+               <l>I find with us, can move so vast a stone.</l>
+            </sp>
+            <sp>
+               <speaker>Wor.</speaker>
+               <l>What wandring Head advis'd thee this Wild Course?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>
+                  <hi>Evangelist,</hi> believe me, and no worse.</l>
+            </sp>
+            <sp>
+               <speaker>Wor.</speaker>
+               <l>Just like him, full of Toyl; It's plain enough.</l>
+               <l>Dirt I see on thee, of the <hi>Dispond Slough.</hi>
+               </l>
+               <l>Heed me, thy Senior far: This way thou'l find</l>
+               <l>Full of Cross-Roads, and things to vex thy mind.</l>
+               <l>Canst thou hug Hunger? Canst thou play with Pain?</l>
+               <l>Parlee with Perils? Or the Sword restrain?</l>
+               <l>Canst thou weild weariness? endure the breath</l>
+               <l>Of Poysonous Dragons, Dungeons, Darkness, Death?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>As terrible this burthen is, and more</l>
+               <l>Than all those dreadful things you reckon'd o're:</l>
+               <l>Deliverance from this Weight, may I but see't,</l>
+               <l>Come else what will, I care not what I meet.</l>
+            </sp>
+            <sp>
+               <speaker>Wor.</speaker>
+               <l>How camest thou by it first, I do demand?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>By reading this same Book here in my hand.</l>
+            </sp>
+            <sp>
+               <speaker>Wor.</speaker>
+               <l>'Tis like enough, and so 'twill be, think I,</l>
+               <l>When such <hi>weak Heads</hi> meddle with things so high.</l>
+               <l>Great puzling Grief, and sinking Sorrow enters,</l>
+               <l>When men launch forth, and make such bold Adven<g ref="char:EOLhyphen"/>tures;</l>
+               <pb n="10" facs="tcp:34933:9"/>
+               <l>I know not what to compass and obtain.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>But I know what it is I would see sain;</l>
+               <l>Ease from this ponderous Load; that would content me.</l>
+            </sp>
+            <sp>
+               <speaker>Wor.</speaker>
+               <l>The way thou tak'st, I'm sure, will prevent thee.</l>
+               <l>Yet all thy Wish, I'le show thee may be had</l>
+               <l>An easier way by half, than thou hast laid,</l>
+               <l>And set forth thus, through throngs of greatest Grief:</l>
+               <l>I'le show thee through great Peace, Content, Relief.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Open your Secret, pray; I can't think it.</l>
+            </sp>
+            <sp>
+               <speaker>Wor.</speaker>
+               <l>That your Rough Road, I can't abide it; sink it.</l>
+               <l>What man of Sense will step one foot your way?</l>
+               <l>Yond' Town, <hi>Morality;</hi> mark it, I say;</l>
+               <l>There dwells a Gentleman of constant Fame,</l>
+               <l>Most Complaisant; <hi>Legality's</hi> his Name,</l>
+               <l>He can take off your Burden from your Back;</l>
+               <l>Drink with you, merrily, a Glass of Sack.</l>
+               <l>Much good this way I know this man has done;</l>
+               <l>For <hi>Crazy Heads,</hi> he cures all that come.</l>
+               <l>If he's from home, don't presently retire;</l>
+               <l>His Son <hi>Civility,</hi> call'd the Young Squire;</l>
+               <l>He'll do the Feat as sure as his Father;</l>
+               <l>And I have heard he'll do it quicker, rather.</l>
+               <l>If you'r for Rarities, want Foul or Fish;</l>
+               <l>There you have what you will; even any Dish</l>
+               <l>You mind: Things there are very cheap;</l>
+               <l>Most courteous Neighbours, who will run and leap,</l>
+               <l>At meeting, when they 'ave been a while from home;</l>
+               <l>Hugging each other too from Room to Room.</l>
+               <l>This fine Report, brought <hi>Christian</hi> to a stand;</l>
+               <l>But presently resolved whether hand</l>
+               <l>He now would take. If this be so, saith he.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Show me, I pray, which way my Course shall be,</l>
+               <pb n="11" facs="tcp:34933:9"/>
+               <l>To this Great <hi>Lawyer's</hi> House, And I will run.</l>
+            </sp>
+            <sp>
+               <speaker>Wor.</speaker>
+               <l>Climb but that Hill, and all your work is done.</l>
+               <l>
+                  <hi>Christian,</hi> transported, runs; He leaves his way;</l>
+               <l>Men most deceiv'd, always make least delay.</l>
+               <l>"<hi>Never more bold, than when most blind;</hi>
+               </l>
+               <l>"<hi>Run fastest when the Truth's behind.</hi>
+               </l>
+               <l>But coming near the Hill, <hi>his Fears</hi> came on;</l>
+               <l>This Hill hangs over so, 'twill fall anon,</l>
+               <l>Poor <hi>Christian</hi> cry'd: Then stopt, for he fell ill,</l>
+               <l>With weight o'th' Burden, and with Fright o'th' Hill;</l>
+               <l>Flashes of Fire, oft breaking out o'th' Mount;</l>
+               <l>Strait to be burnt, poor <hi>Christian</hi> made account.</l>
+               <l>He sweat, and broil'd, trembled, and quak't for fear;</l>
+               <l>Sighing, and shedding many a Briny Tear;</l>
+               <l>His Voice disturbed so, he spoke not plain</l>
+               <l>Any whole word; yet oft, though, and again,</l>
+               <l>I heard him cry, <hi>World! World!</hi> deceitful thing;</l>
+               <l>Thou cheatest all, the <hi>Beggar</hi> and the <hi>King.</hi>
+               </l>
+               <l>He saw one like <hi>Evangelist,</hi> that came</l>
+               <l>Tow'rds him: And then poor <hi>Christian</hi> blusht for shame.</l>
+            </sp>
+            <sp>
+               <speaker>Evan.</speaker>
+               <l>Who put thee, man, into this stark mad mood,</l>
+               <l>To leave thy way? Then <hi>Christian</hi> speechless stood.</l>
+            </sp>
+            <sp>
+               <speaker>Evan.</speaker>
+               <l>Art thou not he that made those <hi>Roars</hi> &amp; <hi>Bawls,</hi>
+               </l>
+               <l>A while ago, without the City-Walls?</l>
+               <l>It was but Jest, it seems: Or, to be plain,</l>
+               <l>Nothing of truth, but <hi>counterfeited Pain.</hi>
+               </l>
+               <l>
+                  <hi>Christian</hi> begun, left neither Yard, nor Rood,</l>
+               <l>Of all his Passes, to the Spot he stood.</l>
+               <l>But all repeated was, he mist not it.</l>
+               <l>Said, form'd, or done, 'twixt him and <hi>Worldly-wit.</hi>
+               </l>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:34933:10"/>
+               <speaker>Evang.</speaker>
+               <l>If they escap'd not who refused him</l>
+               <l>That spake from Earth; that is so dark and dim;</l>
+               <l>How then shall we escape, if our Old Leaven</l>
+               <l>Stop us from hearing him that speaks from Heaven?</l>
+               <l>Thou hast begun, <hi>O base! O sad! O fie!</hi>
+               </l>
+               <l>For to reject the Counsel o'th' most high;</l>
+               <l>Even thou art he; Mourn and lament; ne'r cease;</l>
+               <l>That drew thy Foot quite from the way of Peace.</l>
+               <l>
+                  <hi>Christian,</hi> as if h<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> heard Death's Sentence read,</l>
+               <l>At foot of <hi>'Ʋangelist</hi> fell down as dead:</l>
+               <l>But he, kind man, had pity; and 'twas such,</l>
+               <l>He gave his hand, which cherisht <hi>Christian</hi> much;</l>
+               <l>And with these words poor <hi>Christian</hi> did relieve;</l>
+               <l>
+                  <hi>Dispair not, man; Ben't faithless, but believe:</hi>
+               </l>
+               <l>Only more earnest heed, I pray thee take,</l>
+               <l>To what I say, for thy own good and sake.</l>
+               <l>That <hi>Cheat's</hi> right call'd, and named <hi>Worldly-wit:</hi>
+               </l>
+               <l>For, as to th' world, there's none more savours it:</l>
+               <l>That takes up all his time, his thoughts and cares;</l>
+               <l>He goes to th' Town <hi>Morality</hi> to Prayers:</l>
+               <l>That's his best <hi>Liturgy,</hi> which yeilds least Loss;</l>
+               <l>That Doctrine's best that's furthest off the <hi>Cross.</hi>
+               </l>
+               <l>Take my advice; <hi>Legality</hi>'s a Cheat:</l>
+               <l>He Juggles most to purpose, that is great.</l>
+               <l>Fine Words, and Cloaths, may sooner set thee wrong,</l>
+               <l>Than one in Rags, who stammers with his Tongue.</l>
+               <l>Write an <hi>Abhorrence;</hi> send it <hi>Worldly-wit.</hi>
+               </l>
+               <l>Show there thy wandring, how thou mourns for it.</l>
+               <l>Speak the plain Truth, tell him thou can't afford</l>
+               <l>
+                  <hi>Gaining</hi> the World; By <hi>loosing</hi> of thy Lord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</l>
+               <l>Whose Cross thou' I not dispise, tho <hi>Egypt</hi> Land,</l>
+               <l>And <hi>India</hi> too, were given thee in hand.</l>
+               <pb n="13" facs="tcp:34933:10"/>
+               <l>An <hi>Aliens Worldly wit</hi> and a great cheat</l>
+               <l>
+                  <hi>Legality,</hi> whose writings all do treat,</l>
+               <l>Of meer Delusions: Civils simpering looks,</l>
+               <l>He's like the Rest: All Read in <hi>Conjuring Books.</hi>
+               </l>
+               <l>
+                  <hi>Evangelist,</hi> with this cry'd out and said,</l>
+               <l>Unto the Heavens, which the Great God made,</l>
+               <l>Confirm ye this! And just even as he spoke,</l>
+               <l>A dreadful fire, out o'th' <hi>Mountain</hi> broke</l>
+               <l>Where <hi>Christian</hi> stood: And words which did express</l>
+               <l>No less then Death, to all in <hi>Legal</hi> dress.</l>
+               <l>
+                  <hi>Christian</hi> cry'd out, lamenting his hard fate,</l>
+               <l>Finding himself so near the <hi>Legal Gate,</hi>
+               </l>
+               <l>By such advice as had its Rise and Spring</l>
+               <l>From Flesh and Blood, or such like filthy thing.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>
+                  <hi>Evangelist!</hi> Good Sir, is't not too late</l>
+               <l>For me, poor wretch, to reach the <hi>Wicket-Gate?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Evang.</speaker>
+               <lg>
+                  <l>Great are thy sins: Yet this I say again,</l>
+                  <l>He at the Gate hath great <hi>Good Will for Men.</hi>
+                  </l>
+                  <l>
+                     <hi>Christian</hi> lookt back, before he went a while:</l>
+                  <l>
+                     <hi>Evangelist</hi> kist him, and gave a Smi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</l>
+                  <l>Bidding God speed. Then <hi>Christian</hi> Run, I found,</l>
+                  <l>Treading like one upon forbidden ground.</l>
+                  <l>E're long I saw <hi>Christian</hi> the Gate had gain'd;</l>
+                  <l>Tho he march'd up full wearily and pain'd.</l>
+                  <l>Now o're the Gate in writing there did stand</l>
+                  <l>These words, fair written, in a curious hand:</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Be it early, be it late;</hi>
+                  </l>
+                  <l>
+                     <hi>Knock; I'll open thee the Gate.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>He knockt not once, nor twice; but many a Rap</l>
+                  <l>He gave, and said soft to himself, Good hap</l>
+                  <l>May I now have; tho undeserving Guest:</l>
+                  <l>Then in his Praises will I sing my best.</l>
+                  <pb n="14" facs="tcp:34933:11"/>
+                  <l>At last a person came, Fair, Grave and Old,</l>
+                  <l>And ask't him who he was? whence? what he would?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>A burden'd sinner, poor and low am I,</l>
+               <l>Who from <hi>Destruction Town</hi> of late did flye:</l>
+               <l>
+                  <hi>Mount Sion</hi> is the place I travel to;</l>
+               <l>I'm now in haste; I pray Sir, let me throw!</l>
+            </sp>
+            <sp>
+               <speaker>Goodw.</speaker>
+               <l>I will with all my heart: And so flew open</l>
+               <l>The Gate, as soon, almost, as he had spoken.</l>
+               <l>As <hi>Christian</hi> stept, the other with quick speed</l>
+               <l>Pluckt him so far, that he was in indeed.</l>
+               <l>What meaneth this, <hi>Good will?</hi> the Christian said.</l>
+            </sp>
+            <sp>
+               <speaker>Goodw.</speaker>
+               <l>There is a Castle and an <hi>Ambuscade</hi>
+               </l>
+               <l>Just o're the way, where <hi>Bellzebub</hi> is head,</l>
+               <l>Thence shoot they Darts, hoping to strike them dead</l>
+               <l>Who make at this our <hi>Port.</hi> Then Christian Sung,</l>
+               <l>For all his trembling, that the <hi>Portal</hi> Rung</l>
+               <l>With his Rejoycing. After this <hi>Good will</hi>
+               </l>
+               <l>Ask't him who 'twas, that set him up the <hi>Hill.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>
+                  <hi>Evangelist</hi> told me, there's no way but it.</l>
+            </sp>
+            <sp>
+               <speaker>Goodw.</speaker>
+               <l>
+                  <hi>An open door'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> before thee none can shut it.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Now comes in Fruit from every Sigh and Groan!</l>
+            </sp>
+            <sp>
+               <speaker>Goodw.</speaker>
+               <l>How chanc'd it yet you came thus all alone?</l>
+               <l>Then <hi>Christian</hi> did Repeat from first to last,</l>
+               <l>What caus'd his coming, and what things had past:</l>
+               <l>And in th' Account Great Zeal for Truth was shown;</l>
+               <l>In others Faults, he did not hide his own.</l>
+               <l>But he concluded thus: <hi>I'm self-abhorr'd,</hi>
+               </l>
+               <l>Not at all fit to stand before my Lord.</l>
+            </sp>
+            <sp>
+               <speaker>Goodw.</speaker>
+               <l>None we except that hold thus far devout,</l>
+               <l>Once they come here, we never cast them out.</l>
+               <l>Good Christian therefore come along a while</l>
+               <l>And learn the way, so well, that no beguile</l>
+               <pb n="15" facs="tcp:34933:11"/>
+               <l>May Rob thee of thy <hi>hope:</hi> See as thou stands,</l>
+               <l>That <hi>Norroway,</hi> cast up even by the hands;</l>
+               <l>Of <hi>Christ, Apostles, Patriarchs, Prophets too,</hi>
+               </l>
+               <l>Straight as a Line keep it, and that will do.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Are there no turnings then, Good Sir, I Pray?</l>
+               <l>Alas! I'm apt, I'm apt, to miss my way.</l>
+            </sp>
+            <sp>
+               <speaker>Goodw.</speaker>
+               <l>Yes, truely Christian, many's of that sort,</l>
+               <l>But know thou this, the Right, which leads to th' <hi>Court,</hi>
+               </l>
+               <l>
+                  <hi>Of Peace, is Straight, Narrow,</hi> not wide at all,</l>
+               <l>As wrong ways are: Which <hi>Crooked</hi> too do fall.</l>
+               <l>Wherever one is, th' other's also there,</l>
+               <l>Crooked and Broad, thou'l find them every where.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Yet one word further, Good my Lord I have!</l>
+               <l>This burden on my back, I fain would leave:</l>
+               <l>How must I do? <hi>Where</hi> must it be? and <hi>when?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Goodw.</speaker>
+               <l>Stay but the time, and it will fall off then,</l>
+               <l>Even of it self. So Christian did prepare,</l>
+               <l>For further <hi>Progress</hi> in his grand affair;</l>
+               <l>As he took leave, <hi>Evangelist</hi> did tell him</l>
+               <l>Of great <hi>Success,</hi> which afterwards befel him.</l>
+               <l>Not many furlongs from the <hi>Wicket-Gate,</hi>
+               </l>
+               <l>There was a Man well versed in the State</l>
+               <l>Of <hi>Sions Mount;</hi> And in the Road thereto:</l>
+               <l>Christian, strange things might hear and see him do;</l>
+               <l>The House of the <hi>Interpreter</hi> this was,</l>
+               <l>Commodious for all Pilgrims as they Pass.</l>
+               <l>
+                  <hi>Christian</hi> took with him this good News: So Run,</l>
+               <l>His Stage was ended, almost, when begun,</l>
+               <l>He made such haste: When there, he knockt full hard,</l>
+               <l>And soon was Answer'd from the <hi>Porters Ward,</hi>
+               </l>
+               <l>
+                  <hi>Whose there? What want ye? Th' Master:</hi> Is he at home?</l>
+               <l>Christian Reply'd; with that the Master come.</l>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:34933:12"/>
+               <speaker>Chr.</speaker>
+               <l>By him at th' head o'th' way I was sent hither,</l>
+               <l>Where <hi>Sion's Sons,</hi> and all that travel thither,</l>
+               <l>Take their <hi>Directions,</hi> as that good man said.</l>
+               <l>And tho but poor, I'm loath to be betray'd.</l>
+            </sp>
+            <sp>
+               <speaker>Interp.</speaker>
+               <l>Welcome, come in: Light up a candle straight,</l>
+               <l>He said to's Man: And follow you the Light,</l>
+               <l>He said to <hi>Christian:</hi> So they all three come</l>
+               <l>Into a large, low, private <hi>Dining-Room.</hi>
+               </l>
+               <l>Then said th' <hi>Interpreter</hi> unto his Man,</l>
+               <l>Open that Door: that done, <hi>Christian</hi> began</l>
+               <l>To be afraid, seeing a most grave man,</l>
+               <l>Most rarely drawn, devout, looking above</l>
+               <l>All Pourtraicts of one <hi>wrapt in holy Love.</hi>
+               </l>
+               <l>These were the <hi>Landskips,</hi> as my Dream did mind him?</l>
+               <l>A Crown of Gold before, the World behind him.</l>
+               <l>This in the <hi>Picture,</hi> I observ'd again;</l>
+               <l>It stood just as 'twere PLEADING still with Men.</l>
+               <l>Th' <hi>Interpreter</hi> observ'd, 'twas this man's work</l>
+               <l>To light us in dark places; where do lurk,</l>
+               <l>Many Temptations: Nam'd not th' Man at all,</l>
+               <l>But as describ'd, I took it for St. <hi>Paul.</hi>
+               </l>
+               <l>Then lead the <hi>Christian</hi> to a Parlor Room,</l>
+               <l>Where many a year there had not come a Broom.</l>
+               <l>He bid his Man go sweep: But then there Rose</l>
+               <l>A Choaking dust; So that the Christian chose</l>
+               <l>To fly for breath; until at last there came</l>
+               <l>A Damsel, who forthwith allay'd the steame,</l>
+               <l>By sprinkling water there: So that the Place</l>
+               <l>Had much more Sweetness, Beauty, and more Grace.</l>
+               <l>Here said th' <hi>Interpreter,</hi> Christian, I show thee!</l>
+               <l>What, without <hi>washing,</hi> surely will undo thee.</l>
+               <l>This dusty Room's <hi>Mans Heart.</hi> Observe the sweeper</l>
+               <l>Raising the Dust; this is the <hi>Law</hi> the Keeper,</l>
+               <pb n="17" facs="tcp:34933:12"/>
+               <l>That Chains up <hi>Slaves</hi> in holds, where they want breath:</l>
+               <l>Under whose <hi>Fetters</hi> look for nought but Death:</l>
+               <l>The more he sweeps, the more the Dust he drives,</l>
+               <l>The workings of the <hi>Law</hi> Mans Sin revives.</l>
+               <l>The Damsel watering here, thou findst it true;</l>
+               <l>The <hi>Gospel</hi> gives Man Power, to subdue</l>
+               <l>Unruly Lusts: It leaves the Room most sweet,</l>
+               <l>And then the Man sits down at <hi>Jesus</hi> Feet.</l>
+               <l>
+                  <hi>Faith</hi> clean's the Soul, and to make short the story,</l>
+               <l>Fits an <hi>Apartment</hi> for the King of Glory.</l>
+               <l>Then Christian, and th' Interpreter Remov'd,</l>
+               <l>Into a lesser Room; where, as it prov'd,</l>
+               <l>The sight designed for the Christian there,</l>
+               <l>Was but <hi>two little Boys,</hi> each in his Chair,</l>
+               <l>(The Eldests Name was <hi>Passion,</hi> and the other</l>
+               <l>
+                  <hi>Patience</hi> was call'd) Remote one from the other.</l>
+               <l>The first look't as he'd suckt some <hi>Fretful</hi> Dam,</l>
+               <l>The other very <hi>Meek,</hi> still as a Lamb.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Why, show you me this Room? Here's no<g ref="char:EOLhyphen"/>thing Rare,</l>
+            </sp>
+            <sp>
+               <speaker>Int.</speaker>
+               <l>Instructions for Christians; there are,</l>
+               <l>If for none else: And this, I'm sure thou knows,</l>
+               <l>Some heed a Nod, when others do not blows.</l>
+               <l>The self-same <hi>Tutor,</hi> these two Boys have had,</l>
+               <l>The self-same <hi>Lecture,</hi> to them both been read;</l>
+               <l>Both these have longed earnestly for <hi>Plumbs;</hi>
+               </l>
+               <l>The Master crys Peace, Peace, till Fruit time comes.</l>
+               <l>
+                  <hi>Passion</hi> denies, unless they'l find him stores</l>
+               <l>Of Gold, and Silver, Cobs and Lauydor's:</l>
+               <l>These (when powr'd out of Bags, at <hi>Passions</hi> feet)</l>
+               <l>Swept off sowr looks: And he became more sweet,</l>
+               <l>Laughing at Patience; till at last I see</l>
+               <l>All spent and gone; nothing but Rags was he.</l>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:34933:13"/>
+               <speaker>Chr.</speaker>
+               <l>Teach me I Pray, further to understand</l>
+               <l>The meaning of the Object now in hand.</l>
+            </sp>
+            <sp>
+               <speaker>Int.</speaker>
+               <l>The self-same Parents both these Children claim:</l>
+               <l>
+                  <hi>Patience</hi> is chang'd; begotten, <hi>born again;</hi>
+               </l>
+               <l>
+                  <hi>Ʋnto a Lively hope:</hi> He stays the Season</l>
+               <l>Of the <hi>Ripe Fruits:</hi> And a substantial Reason</l>
+               <l>Contents this child. He sees Fruit here is Green,</l>
+               <l>And apt to surfeit: Many lost have been,</l>
+               <l>Who judg'd Futurities not worth a Rush,</l>
+               <l>One Bird in hand worth two Birds in the Bush;</l>
+               <l>Who have prefer'd possessions, Gay and Fine,</l>
+               <l>In hand, before Reversions Divine.</l>
+               <l>Mind <hi>Passion</hi> there, for all his Golden brags,</l>
+               <l>In little time Cloathed with nought but Rags.</l>
+               <l>It's so with <hi>Worldly Men;</hi> with all, not some:</l>
+               <l>Their choice <hi>Embroideries,</hi> come Naked home.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Now I perceive most clear, by what is shown,</l>
+               <l>
+                  <hi>Patience</hi> hath better on't, more ways then one:</l>
+               <l>For first of all, he waits on this good Reason;</l>
+               <l>The Tree of <hi>Promise</hi> brings its Fruit in Season,</l>
+               <l>As well as other <hi>Plants:</hi> Besides it's plain,</l>
+               <l>He's in the Sun, when th' other stands ith' Rain.</l>
+            </sp>
+            <sp>
+               <speaker>Int.</speaker>
+               <l>Nay, you may add another and 'twill do.</l>
+               <l>His Glory lasts when th' others is worn through:</l>
+               <l>His he hath last, and Last gives place to None:</l>
+               <l>Our <hi>lasting</hi> Things we have when other's gone.</l>
+               <l>Poor <hi>Lazarus</hi> his lasting Joys begun,</l>
+               <l>When <hi>Dives</hi> Pleasures were all spent and done.</l>
+               <l>Who hath his Portion first, hath time to spend it,</l>
+               <l>Who hath it last, Eternity can't End it.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Then I perceive it's best for all, even Kings,</l>
+               <l>To covet Future, not these present Things.</l>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:34933:13"/>
+               <speaker>Int.</speaker>
+               <l>You know the proof, Seen things but tem<g ref="char:EOLhyphen"/>p'ral are,</l>
+               <l>Unseen Eternal, (never to grow bare)</l>
+               <l>Seen things to Flesh are <hi>Neighbours,</hi> well acquainted,</l>
+               <l>Unseen are <hi>strangers;</hi> therefore seldom wanted.</l>
+               <l>Again he took our Christian by the hand,</l>
+               <l>Show'd him a <hi>Wall and Fire,</hi> by which did stand</l>
+               <l>One throwing water on; but 'twould not do,</l>
+               <l>For it burn't <hi>higher</hi> still, and <hi>hotter</hi> too.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>What may this mean? Good Sir! I humbly ask.</l>
+            </sp>
+            <sp>
+               <speaker>Int.</speaker>
+               <l>This is the work of <hi>Grace;</hi> and such a Task,</l>
+               <l>Is never undertaken that it's lost,</l>
+               <l>Tho' with the utmost Fraud and Force, it's Crost.</l>
+               <l>The Fire is Love Divine, within <hi>Mans Heart,</hi>
+               </l>
+               <l>He that would quench it; act's the <hi>Devils part:</hi>
+               </l>
+               <l>And why there's no <hi>Success</hi> in all the <hi>Treason,</hi>
+               </l>
+               <l>I'll show you straight, behind the Wall the Reason.</l>
+               <l>Then went they both unto the other side</l>
+               <l>O'th' Wall we Nam'd: There Christian soon espy'd,</l>
+               <l>One that did hold a <hi>Vessel</hi> full of Oyl,</l>
+               <l>And casting, <hi>secretly,</hi> tho all the while</l>
+               <l>Into the fire, supplies of that <hi>choice</hi> Liquor;</l>
+               <l>Nothing could be so <hi>freely</hi> done or <hi>quicker.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Int.</speaker>
+               <lg>
+                  <l>Here Christian see! this Man is <hi>Christ</hi> our <hi>Lord,</hi>
+                  </l>
+                  <l>Who th' Oyl of Grace so freely doth afford,</l>
+                  <l>Maintaining in Mans heart what he begun;</l>
+                  <l>Devil do's worst, that cannot be undone.</l>
+                  <l>This being too behind the Wall, doth show</l>
+                  <l>It's hard for <hi>tempted</hi> Man to see, or know,</l>
+                  <l>How Grace i'th' Heart's <hi>maintain'd:</hi> O! may this sight</l>
+                  <l>When you are Wrong, at all times set you Right!</l>
+                  <pb n="20" facs="tcp:34933:14"/>
+                  <l>
+                     <hi>Christ</hi> doth not only keep up Grace i'th' Heart,</l>
+                  <l>But bafles Satan in that very Part,</l>
+                  <l>Which he's most ready in: What's dead, as 'twere,</l>
+                  <l>When the Lord calls, cannot but Wake and Hear.</l>
+                  <l>The Flood cast out o'th' <hi>Dragons</hi> mouth; there's no Man,</l>
+                  <l>Could once have thought how to have sav'd the <hi>Woman;</hi>
+                  </l>
+                  <l>But ready was <hi>Relief</hi> by Gods Decree,</l>
+                  <l>God gave the <hi>Earth,</hi> a wider Mouth then he.</l>
+                  <l>Moreover, in my dream, I look't and saw,</l>
+                  <l>This goo'd <hi>Interpreter</hi> o' all the Law,</l>
+                  <l>Take Christian by the hand; so that he brought him</l>
+                  <l>Into so large a place, Had I not sought him,</l>
+                  <l>The finest part of all my Dream I'd lost:</l>
+                  <l>But found him shortly (for I run with Post)</l>
+                  <l>Where he was entertained with the View,</l>
+                  <l>Of a Rich Pallace, Stately, Fine, and New.</l>
+                  <l>Much pleas'd was Christian, as I did discover</l>
+                  <l>In's very looks: There was a Joy all over.</l>
+                  <l>Upon the Pallace Top; one might behold</l>
+                  <l>Persons of great Account, <hi>all Cloath'd in Gold.</hi>
+                  </l>
+                  <l>O said the Christian may we enter here!</l>
+                  <l>So they advanced both; but drawing near</l>
+                  <l>Unto the Door, great Crowds of Men they saw.</l>
+                  <l>Desiring <hi>Entrance:</hi> Yet behold an Awe</l>
+                  <l>And Dread was on them; for against the Gate,</l>
+                  <l>With Book and Inkhorn at a Table sate:</l>
+                  <l>A Man who took Account of each ones Name,</l>
+                  <l>Who did effect the Thing for which he came.</l>
+                  <l>And in the door way, Christian saw again,</l>
+                  <l>There stood a Band of Stout-well-armed Men,</l>
+                  <l>Keeping the Pass; declaring none should enter,</l>
+                  <l>Unless, Life, Limb, Estate, and all they'l venture.</l>
+                  <pb n="21" facs="tcp:34933:14"/>
+                  <l>Many Men offer'd: And there many a Crack,</l>
+                  <l>No sooner offer'd, then he leaped back.</l>
+                  <l>As <hi>Christian</hi> (in amaze) was looking on:</l>
+                  <l>Boldly came up One, who it seems had gone</l>
+                  <l>Through many a Fight: And stepping to the Table</l>
+                  <l>Write down my Name, said he, I hope I'm able</l>
+                  <l>To make my way; My Cause is good, it's Love:</l>
+                  <l>And those my Dearest Friends that walk above,</l>
+                  <l>With that he drew; And unto all Mens sight</l>
+                  <l>Appear'd a Man that was <hi>Resolv'd</hi> to fight:</l>
+                  <l>On went his <hi>Helmet, Brest-Plate,</hi> and with those</l>
+                  <l>He was Content; ne'r heeding Shins and Toes.</l>
+                  <l>To th' Door he run (warmly received though)</l>
+                  <l>By th' Armed Men: And many a deadly blow</l>
+                  <l>He had; yet not at all dismay'd,</l>
+                  <l>He fought as if, Fighting, had been his Trade.</l>
+                  <l>Wounds he receiv'd and gave: But cut through th'e throng.</l>
+                  <l>Entring the Gate, most Curious <hi>Voice in Song</hi>
+                  </l>
+                  <l>Was heard, loud, lovely, Ravishingly sweet:</l>
+                  <l>These all the sentences that I could meet.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Well fought, well run,</hi>
+                  </l>
+                  <l>
+                     <hi>So said, so done:</hi>
+                  </l>
+                  <l>
+                     <hi>Fear Death no longer,</hi>
+                  </l>
+                  <l>
+                     <hi>Now thy Glorys come.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>O! May my Health and Sickness so Presage:</l>
+                  <l>When I march off, from this terrestial Stage;</l>
+                  <l>As may my Friends below, on this wise move,</l>
+                  <l>To Sing this Song, his Friends have done above.</l>
+                  <l>But still my Dream went on; and so straight way,</l>
+                  <l>The Man went up, and Cloathed was as they.</l>
+                  <l>Then Christian <hi>Smil'd</hi> (I saw plain in my dreaming)</l>
+                  <l>Truely said he, I think I know the meaning,</l>
+                  <pb n="22" facs="tcp:34933:15"/>
+                  <l>Well, let's go hence, but see a little more,</l>
+                  <l>Said the <hi>Interpreter,</hi> here's further Store</l>
+                  <l>Of Forage, for your way: You'll need it all.</l>
+                  <l>So they went to a Room, both very small,</l>
+                  <l>And darkish too; where suddenly they found,</l>
+                  <l>In a strong <hi>Iron Cage, a Man in Pound:</hi>
+                  </l>
+                  <l>Had a dejected Look, with folded Hands,</l>
+                  <l>Looking as tho the very <hi>Strings</hi> and <hi>Bands,</hi>
+                  </l>
+                  <l>Of his sad Heart were breaking. What means this?</l>
+                  <l>The Christian said: Some great Thing sure's amiss.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Int.</speaker>
+               <l>Ask you the Man your self, He best can tell.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>What art thou Man? A Devil on this side Hell?</l>
+               <l>Then said the Man, I am not what I was,</l>
+               <l>A strong Professor, and One well to pass,</l>
+               <l>In the most Curious Eye, as well as mine,</l>
+               <l>Fit for the best: I thought my self so fine,</l>
+               <l>Heavens Citizens, would long to see me there:</l>
+               <l>I often thought, <hi>how great</hi> I should appear.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>But now what art thou Man? And what's thy Case?</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Dispair it was, that brought me to this place.</l>
+               <l>I left off Watching and Sobriety,</l>
+               <l>Not Choice, or Curious of Society;</l>
+               <l>But laid the <hi>Reins</hi> i'th' Neck of every <hi>Lust,</hi>
+               </l>
+               <l>What way they led me, that way go I must.</l>
+               <l>Gods Holy Spirit <hi>I griev'd, and he Remov'd:</hi>
+               </l>
+               <l>Tempting the Devil, he caught me as it prov'd.</l>
+               <l>With hardening of my Heart so far I went,</l>
+               <l>That now, tho Life lye's on't I can't Repent.</l>
+               <l>Then Christian turn'd: <hi>Interpreter!</hi> he said,</l>
+               <l>Are there <hi>no Promises</hi> to this Man made?</l>
+            </sp>
+            <sp>
+               <speaker>Int.</speaker>
+               <l>Ask him, He'll not conceal it I'll engage.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Can none Release thee from this Iron Cage?</l>
+            </sp>
+            <sp>
+               <pb n="23" facs="tcp:34933:15"/>
+               <speaker>Man.</speaker>
+               <l>No None: There's None, on whom poor I can call.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Why so? The Son of God is kind to all.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Him I have Crucify'd, which brought to mind,</l>
+               <l>A fresh my wounded Conscience bleeds I find.</l>
+               <l>Him I dispis'd, it's that makes Conscience ring,</l>
+               <l>Esteem'd his Blood, as an unholy Thing.</l>
+               <l>Despite I did unto the Spirit of Grace;</l>
+               <l>That desperate wretch, I cannot have the Face</l>
+               <l>To ask an Alms; in hopes I should succeed,</l>
+               <l>Which causes Horror, from my Soul proceed</l>
+               <l>In frightful sort; Like overflowing Streams:</l>
+               <l>My Bed I know must be in fiery Flames.</l>
+            </sp>
+            <sp>
+               <speaker>Christ.</speaker>
+               <l>What Tyde hath drawn thy Ship to this <hi>Black Sea?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>
+                  <hi>Lust, Sport,</hi> and <hi>Gain,</hi> did haunt me every Day:</l>
+               <l>Nothing could stop the force of my Carrier,</l>
+               <l>
+                  <hi>These</hi> as a burning Worm, now gnaw me here.</l>
+               <l>Eternal! O Eternal, endless State</l>
+               <l>Of Weeping, Wailing, Gnashing! Now my Fate.</l>
+            </sp>
+            <sp>
+               <speaker>Int.</speaker>
+               <l>Let this Mans misery a Caution be.</l>
+               <l>Oft may thy mind this woeful Object see!</l>
+            </sp>
+            <sp>
+               <speaker>Christ.</speaker>
+               <l>Well, this is dreadful Sir, God grant J may</l>
+               <l>Mind it, and Fear, and Strive, and Watch, and Pray.</l>
+               <l>But is't not now high time to march my way.</l>
+            </sp>
+            <sp>
+               <speaker>Int.</speaker>
+               <l>Stay now, I have but one thing more to say.</l>
+               <l>So he lead Christian to another Room;</l>
+               <l>Where I did think the very <hi>Day of Doom,</hi>
+               </l>
+               <l>Was coming on: For there a Man arose</l>
+               <l>Out of his Bed; with that the very <hi>Cloaths</hi>
+               </l>
+               <l>
+                  <hi>Shook on his back:</hi> He trembling like a leaf,</l>
+               <l>Looking a look, that was more pale then Death.</l>
+               <pb n="24" facs="tcp:34933:16"/>
+               <l>What's here? said Christian starting, How I quake!</l>
+            </sp>
+            <sp>
+               <speaker>Int.</speaker>
+               <l>Man! let the Christian know the cause: Come speak.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>This night I dream'd, and presently I see</l>
+               <l>It Light'ned and it Thundred dreadfully,</l>
+               <l>Heaven black, and Clouds rack at unusual rate,</l>
+               <l>The Trumpet sounded, and a Man there sate</l>
+               <l>
+                  <hi>Ʋpon a Cloud;</hi> with a most <hi>Glorious</hi> Train</l>
+               <l>All was on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire, <hi>The Heavens in a flame.</hi>
+               </l>
+               <l>I heard a voice which cry'd <hi>Arise ye Dead!</hi>
+               </l>
+               <l>And it was done, well nigh as soon as said.</l>
+               <l>Come ye to Judgment! Was the next I heard;</l>
+               <l>Then Graves were open'd, Rocks were Rent and Tear'd</l>
+               <l>Even as <hi>Thin Paper;</hi> And the Dead came forth</l>
+               <l>Some mighty glad: Others, as those not worth</l>
+               <l>The Ground they tread; who cry'd unto the <hi>Hills</hi>
+               </l>
+               <l>To cover them: Or any thing that Kills;</l>
+               <l>To hide them from his Face, that sate o'th' Cloud.</l>
+               <l>A Book then opened was, and a vast Crowd</l>
+               <l>There stood before him: <hi>All the Word drew near.</hi>
+               </l>
+               <l>Gather the Tares and Chaff and Stuble there,</l>
+               <l>Cries a loud <hi>Herauld,</hi> from the burning lake.</l>
+               <l>So the <hi>Pit opened,</hi> and each fiery flake</l>
+               <l>Did sally forth, just by the place I stood,</l>
+               <l>With Hideous Voice: Not one I heard was good:</l>
+               <l>Out of their Mouths came darkening sulphury smoak.</l>
+               <l>To the same <hi>Reapers</hi> then I heard it spoke,</l>
+               <l>Gather my Wheat into my Garner now;</l>
+               <l>With that, I saw a goodly Glorious show</l>
+               <l>Of <hi>Blessed ones,</hi> caught up into the Ayr:</l>
+               <l>But lest behind was I, with <hi>Devils</hi> there.</l>
+               <pb n="25" facs="tcp:34933:16"/>
+               <l>Also I sought <hi>a hiding place;</hi> but none</l>
+               <l>Would cover me, not Earth, nor Wood, nor Stone,</l>
+               <l>This way and that way I did strive to fly,</l>
+               <l>But still fixt on me was <hi>the Judges Eye.</hi>
+               </l>
+               <l>
+                  <hi>Conscience</hi> on every side, accus'd me so,</l>
+               <l>I soon perceiv'd it was in vain to go.</l>
+               <l>With that I <hi>wak't:</hi> But it's so Fresh and New,</l>
+               <l>It tremble thus, fearing it should be true.</l>
+               <l>Have you consider'd, what you see now here.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Yes, and it puts me both in hopes and fear.</l>
+               <l>Then Christian Girded up his Loyns to go,</l>
+            </sp>
+            <sp>
+               <speaker>Int.</speaker>
+               <lg>
+                  <l>The Comforter be with thee always: So</l>
+                  <l>For to direct thee to the Holy Place,</l>
+                  <l>As not be possible to lose thy Race.</l>
+                  <l>With this sweet Blessing, Christian went and Sung;</l>
+                  <l>Betwixt two Walls his way: The <hi>Eccho</hi> Rung.</l>
+                  <l>The Walls, <hi>Salvation</hi> call'd; Christian being ty'd</l>
+                  <l>And held so firmly up, on every side.</l>
+                  <l>Up this way Christian run; some time, tho slack,</l>
+                  <l>Because o'th' <hi>Burden,</hi> that was on his back:</l>
+                  <l>Until he came, where there did stand a <hi>Cross,</hi>
+                  </l>
+                  <l>And where he came by a most happy loss:</l>
+                  <l>For just beneath a <hi>Sepulcher</hi> I saw,</l>
+                  <l>And coming up with Cross; As if a Law</l>
+                  <l>Commanded there, the Christians Load fell off,</l>
+                  <l>That Christian <hi>smil'd:</hi> I thought I heard him Laugh</l>
+                  <l>It tumbl'd fast, until it came to th' Door</l>
+                  <l>O'th' Sepulcher, and then I saw't no more.</l>
+                  <l>And Christian said aloud, I see, O Lord!</l>
+                  <l>Thy Griefs, and Pains, poor Pilgrims ease afford;</l>
+                  <l>
+                     <hi>Thy Death's their Life:</hi> Then stood he still to wonder,</l>
+                  <l>And wept, as if his heart would break in sunder;</l>
+                  <pb n="26" facs="tcp:34933:17"/>
+                  <l>Standing there o're the <hi>Tomb:</hi> Until there came</l>
+                  <l>Three shining ones I do not need to Name</l>
+                  <l>These all saluted him with <hi>Peace,</hi> and then</l>
+                  <l>The first said <hi>Sins Forgiven</hi> thee Amen.</l>
+                  <l>The Second stript his Rags, and <hi>Cloath'd him New.</hi>
+                  </l>
+                  <l>The Third beholding him so fair to view,</l>
+                  <l>
+                     <hi>Confirm'd his Honour:</hi> Gave him Mark and Roll,</l>
+                  <l>And <hi>Letters Patents</hi> in a Royal scrole;</l>
+                  <l>Having the Kings Board Seal: And bid him look</l>
+                  <l>On that at all times as his <hi>Journal Book,</hi>
+                  </l>
+                  <l>To Guide him in at the Celestial Gate:</l>
+                  <l>As his safe <hi>Passport, and an Act of State.</hi>
+                  </l>
+                  <l>Three Leaps for Joy poor Christian made and Sung,</l>
+                  <l>So long I thought he'd never hold his Tongue.</l>
+                  <l>What I remember's, shortly this, and take it</l>
+                  <l>In the same words, just as the Christian spake it.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>O! The Grief that I was in,</hi>
+                  </l>
+                  <l>
+                     <hi>So hard Loaded with my Sin:</hi>
+                  </l>
+                  <l>
+                     <hi>Tho 'twas long, yet Blessed Race:</hi>
+                  </l>
+                  <l>Surely God was in this Place,</l>
+                  <l>And I knew not, <hi>till the Pack</hi>
+                  </l>
+                  <l>
+                     <hi>Suddainly fell off my back.</hi>
+                  </l>
+                  <l>
+                     <hi>Blessed Place! But rather he</hi>
+                  </l>
+                  <l>
+                     <hi>Blessed is! That dy'd for me.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>So he went down the Hill, and at the Foot</l>
+                  <l>He saw three sleeping; even snorring to't.</l>
+                  <l>
+                     <hi>Simple, Presumption, Sloth,</hi> with Toys, and Tackles,</l>
+                  <l>So were they Nam'd, laid fast by th' Heels in Shac<g ref="char:EOLhyphen"/>kles.</l>
+                  <l>Christian, then like a Valiant Man, drew up,</l>
+                  <l>And said, what? <hi>Sleep</hi> Men, on a <hi>Main-Mast-Top!</hi>
+                  </l>
+                  <l>Wake! Let me help you with your Fetters off.</l>
+                  <l>So they did wake; <hi>But every Man did Laugh.</hi>
+                  </l>
+                  <pb n="27" facs="tcp:34933:17"/>
+                  <l>What? Slug and Mock too, now there's on the way</l>
+                  <l>A Roaring Lyon: wake, rise, run I say.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Simp.</speaker>
+               <l>I see no danger yet; for all your wonder.</l>
+            </sp>
+            <sp>
+               <speaker>Sloath.</speaker>
+               <l>Nor I indeed: Give me <hi>more sleep, more slumber.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Presum.</speaker>
+               <l>Each <hi>Tub say I,</hi> on it's own bottom stands.</l>
+               <l>So they lay down, first having shaked hands,</l>
+               <l>Again to sleep: And Christian went his way,</l>
+               <l>Much griev'd to see such sleepy Sots as they.</l>
+               <l>Walking a little space, he did discover</l>
+               <l>Two <hi>modish Men,</hi> hastily tumbling over</l>
+               <l>
+                  <hi>A Wall, on the left hand the Narrow way:</hi>
+               </l>
+               <l>These came towards Christian, and I heard him say,</l>
+               <l>Whence are you Gentlemen? And whither now?</l>
+               <l>He that leapt first was <hi>Formalist,</hi> and he</l>
+               <l>Who ventur'd after, was <hi>Hypocrisie,</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Men.</speaker>
+               <l>
+                  <hi>Vain Glory</hi> was our Birth-Place, and a vow,</l>
+               <l>Each of us have; which we are going now.</l>
+               <l>Zealously to perform; This we Rely on,</l>
+               <l>Will sound our Praise: We're marching for <hi>Mount Sion,</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Thither, and miss the Gate, strange Course you steer!</l>
+               <l>There's none do thus but <hi>Theives:</hi> Would you not hear</l>
+               <l>That Truth spoke in your Ears? What mean you Men?</l>
+               <l>If you'll come there, you must go back agai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>Men.</speaker>
+               <l>The Countrey Folks we ask't; and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ey agreed</l>
+               <l>The Gate was much about; And that w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eed,</l>
+               <l>No not all come there: Climbing the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</l>
+               <l>
+                  <hi>Was used much, and done almost by</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <pb n="28" facs="tcp:34933:18"/>
+               <speaker>Chr.</speaker>
+               <l>Won't this be call'd a Trespass, and a Breach</l>
+               <l>Of his revealed will, whose Servants Teach,</l>
+               <l>The way lyes throw the Gate? What will he say,</l>
+               <l>Who is the Lord o'th' Town, you're for today?</l>
+            </sp>
+            <sp>
+               <speaker>Men.</speaker>
+               <l>Hurt not your Head with that: Neither fret thus,</l>
+               <l>The Custom of a Thousand Year's with us.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Ay, say you so? Will Custom stand in Law?</l>
+               <l>If older Records, It's not worth a straw.</l>
+            </sp>
+            <sp>
+               <speaker>Men.</speaker>
+               <l>Yes, we'll maintain 't: Besides, when we're i'th' way,</l>
+               <l>How came you here? Shalt thou or any say:</l>
+               <l>Thou'rt but i'th' way as we, <hi>for all thy prate</hi>
+               </l>
+               <l>Of coming so precisely through the Gate.</l>
+               <l>What more's thy gain then ours: Sure none at all,</l>
+               <l>Altho we came thus tumbling o'r the Wall.</l>
+               <l>Further, not much was said; But mind thy self:</l>
+               <l>The usual Answer of each willful <hi>Ellf.</hi>
+               </l>
+               <l>So they went on; with little further talk,</l>
+               <l>But that the Men told Christian, that their walk</l>
+               <l>Was clear and plain as his: Only his Coat</l>
+               <l>Made all the difference; which they judg'd he got</l>
+               <l>By some Friends Charity to hide his shame</l>
+               <l>And Nakedness: they well knew how it came.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <lg>
+                  <l>Your Laws and Ord'nances, won't quit your score,</l>
+                  <l>If you came in, by any way but Door:</l>
+                  <l>And <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or my Coat; 'tis even as you say,</l>
+                  <l>Bestow'd on me by th' Lord of this High way,</l>
+                  <l>
+                     <hi>To hide <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Nakedness:</hi> I need not shame</l>
+                  <l>To own a <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>vour that from Honour came:</l>
+                  <l>Especially <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>en I had nought before,</l>
+                  <l>But Clouts, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Rags; meer Poverty all o'r.</l>
+                  <l>Thus do I plea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> my self on as I go:</l>
+                  <l>For at the End m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Lord will own't I know.</l>
+                  <pb n="29" facs="tcp:34933:18"/>
+                  <l>He told them also of a <hi>mark and Roll,</hi>
+                  </l>
+                  <l>Given for his Comfort in distress of Soul,</l>
+                  <l>Which they had not, he fear'd; so coming in:</l>
+                  <l>But all the Answer was, they laught at him.</l>
+                  <l>Thus all went on I saw; but Christian first.</l>
+                  <l>Nothing amongst them further was Reherst.</l>
+                  <l>Christian talkt to himself, finding no good</l>
+                  <l>Like to be done with Men in a mad mood.</l>
+                  <l>Sometimes his Joy prevail'd; sometimes his sighs;</l>
+                  <l>But then his <hi>Roll,</hi> would set All things to Rights.</l>
+                  <l>Of this Joynt march, here was the whole result,</l>
+                  <l>They came at last to th' Hill call'd difficult;</l>
+                  <l>Where three ways Branch't: At <hi>Bottom</hi> was a Spring</l>
+                  <l>The Right led up the Hill; But on each wing</l>
+                  <l>Two other ways there lay: Yet soon nor late</l>
+                  <l>Neither of those, would bring Men to the Gate.</l>
+                  <l>Christian who Aim'd at still, the surest thing,</l>
+                  <l>He mounts the Hill, first having drunk at Spring.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Then he Sung, who'd cause to weep;</hi>
+                  </l>
+                  <l>
+                     <hi>The Hill was so exceeding steep,</hi>
+                  </l>
+                  <l>
+                     <hi>O Great Mount! I will not fear</hi>
+                  </l>
+                  <l>
+                     <hi>Since the way of Life lyes here.</hi>
+                  </l>
+                  <l>
+                     <hi>Should I now waive this strait; Alas!</hi>
+                  </l>
+                  <l>
+                     <hi>Worse, for worse, may come to pass.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>So he begun to climb, whilst th' other two</l>
+                  <l>Came to the Foot o'th' Mount with small ado:</l>
+                  <l>They both resolv'd, No clambering: Not they;</l>
+                  <l>Where there was two; And either easier way.</l>
+                  <l>
+                     <hi>Danger, Destruction,</hi> so the ways were Nam'd:</l>
+                  <l>One took the first, the last the other claym'd.</l>
+                  <l>The first her chooser led, to <hi>a vast Wood,</hi>
+                  </l>
+                  <l>The other hers to a <hi>wild Feild;</hi> where stood</l>
+                  <pb n="30" facs="tcp:34933:19"/>
+                  <l>The simple wretch, on the <hi>dark mountains there;</hi>
+                  </l>
+                  <l>Who fell, and Rose no more, that I could hear.</l>
+                  <l>I after Christian look't, and well Psaw</l>
+                  <l>Running to going he begun to draw;</l>
+                  <l>Going to clambering, on his Hands and Knees,</l>
+                  <l>So tedious the ascent, so steep the' Grees.</l>
+                  <l>About the midst o'th' Hill an Arbor stood,</l>
+                  <l>Made by the Lord o'th' soyl; Of Curious Wood,</l>
+                  <l>Twisted with sweetest Flowrs: Beauty and smell,</l>
+                  <l>And these refresh poor Pilgrims rarely well.</l>
+                  <l>Our Christian there much pleas'd, sits down to rest;</l>
+                  <l>And forthwith drew his Roll out from his Brest,</l>
+                  <l>Read with great comfort in't: Also Renew'd</l>
+                  <l>His Joy for his fine <hi>Coat;</hi> which then he <hi>View'd,</hi>
+                  </l>
+                  <l>View'd, and Review'd: Thus pleas'd himself a while,</l>
+                  <l>Till slumber came, which slily did beguile</l>
+                  <l>Th' unthinking man, lulling him fast asleep;</l>
+                  <l>So a close Prisoner did the Christian keep.</l>
+                  <l>During this rest, poor <hi>Christian</hi> dropt his <hi>Roll.</hi>
+                  </l>
+                  <l>Afterwards comes a man who chid him foul;</l>
+                  <l>Saying, <hi>To th' Ant, thou sluggard,</hi> get thee gone.</l>
+                  <l>With that the <hi>Christian</hi> waked, and went on,</l>
+                  <l>Till to th' Hill top he came, where straight two men,</l>
+                  <l>Call'd <hi>Timerous</hi> and <hi>Mistrust,</hi> met him amain.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>Why haste you thus, my Friends, in the wrong way?</l>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <l>
+                  <hi>Mis.</hi> We thought so too: but now it's right we say:</l>
+               <l>For further we have gone, more Fear we meet;</l>
+               <l>
+                  <hi>Two Lyons</hi> lye you', in the King's High Street.</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <l>You fright me, Sirs, extreamly! But I find</l>
+               <l>A Resolution fortifies my mind,</l>
+               <l>Still to press on, tho dangers be i'th' way;</l>
+               <l>One foul destruction's worser than all <hi>they:</hi>
+               </l>
+               <l>And that will be my Countrey's Fate, I know.</l>
+               <l>With that his <hi>Roll</hi> out he design'd to draw.</l>
+               <l>Into his Bosom then his hand he snov'd,</l>
+               <l>But found, to his surprize, it was remov'd.</l>
+               <pb n="31" facs="tcp:34933:19"/>
+               <l>Sad man was he, to lose <hi>an ald Relief,</hi>
+               </l>
+               <l>His <hi>Passport,</hi> which he trusted to in chief.</l>
+               <l>He knew not what to do: At last bethought him,</l>
+               <l>His sleep i'th' Arbour all that sorrow wrought</l>
+               <l>So back he run in haste; sometimes he w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And sometimes sigh'd; <hi>Lamenting</hi> much</l>
+               <l>At last the place he reach'd; and on the g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Under the Seat, the <hi>Roll,</hi> with Joy, he fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>This set him lightly up the rest o'th' Hill:</l>
+               <l>But behold Night and Darkenness did fill</l>
+               <l>The Firmament before he found the Top:</l>
+               <l>The story of the Lyons then did drop</l>
+               <l>Into his mind; some fears and terrors rose</l>
+               <l>Upon his thoughts: and hugely discompose</l>
+               <l>Te <hi>New-pleas'd man.</hi> But as he looked up,</l>
+               <l>Behind the Hill, he saw the Rooff, or Top</l>
+               <l>Of a great <hi>Palace,</hi> commonly there known</l>
+               <l>By th' Name of <hi>Beautif<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l;</hi> All Marble stone.</l>
+               <l>This reviv'd <hi>Christian</hi> something: Then I found</l>
+               <l>He made good way, and riddance of his ground.</l>
+               <l>But not far short o'th' <hi>Porter's Lodge</hi> he spy'd</l>
+               <l>Two <hi>Lyons</hi> lie, for ought he knew <hi>unty'd:</hi>
+               </l>
+               <l>So he began to halt, and look like one</l>
+               <l>Just drawing back; and I do think he'd gone,</l>
+               <l>Had not Old <hi>Watchful</hi> call'd, who stood i'th' Gate,</l>
+               <l>As <hi>Porter</hi> there, saying, Make haste; it's late;</l>
+               <l>Fear not the Beasts; they'r both of them restrain'd</l>
+               <l>From hurt: Come up, I'le warrant thee they'r chain'd</l>
+               <l>Keep in the very path: These are to try</l>
+               <l>The Faith of Pilgrims, as they pass (here) by.</l>
+               <l>Then on the <hi>Christian</hi> march'd: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut trembling, tho,</l>
+               <l>All as he went; they rang'd and roared so.</l>
+               <l>But he came safe to <hi>th' Lodge;</hi> I saw him there,</l>
+               <l>And heard him say, Can I have Lodging here?</l>
+               <l>Yes, said the Porter; Here's an <hi>Alms-house</hi> made</l>
+               <l>By th'Lord o'th'Hill, for men of that same Trade</l>
+               <l>Thou thy self art. The House I saw, as fair</l>
+               <l>As <hi>Bethlems,</hi> or as <hi>Chelsey-Colledge</hi> arc.</l>
+            </sp>
+            <sp>
+               <pb n="32" facs="tcp:34933:20"/>
+               <speaker>Port.</speaker>
+               <l>Whence art thou, friend? what may I call thy Name?</l>
+            </sp>
+            <sp>
+               <speaker>Chr.</speaker>
+               <lg>
+                  <l>From <hi>Ruine</hi> (a great Town) thence 'twas I came,</l>
+                  <l>
+                     <hi>Christian</hi> now call'd; once <hi>Graceless:</hi> I'm of them</l>
+                  <l>
+                     <hi>God will perswade to dwell in Tents of Shem.</hi>
+                  </l>
+                  <l>Then th' Porter rang a Bell, on which there came</l>
+                  <l>Unto the door a fair and comely Dame,</l>
+                  <l>Called <hi>Discretion;</hi> What's your Name, says she?</l>
+                  <l>(What want you here wirh us? what would you see?)</l>
+                  <l>To <hi>Christian;</hi> who, on that fair sight surpriz'd,</l>
+                  <l>What for to answer was not well advis'd.</l>
+                  <l>At last, said <hi>Christian,</hi> adding further still,</l>
+                  <l>The house he heard was built by th' <hi>Lord o'th' Hill,</hi>
+                  </l>
+                  <l>To <hi>relieve Pilgrims in.</hi> At which she smil'd,</l>
+                  <l>With tears i'th' Eyes; or I was much beguil'd.</l>
+                  <l>Then back she ran, in haste, to call up more:</l>
+                  <l>Three of her sisters, straight, she brought to th' door,</l>
+                  <l>
+                     <hi>Piety, Prudence, Charity;</hi> All they,</l>
+                  <l>
+                     <hi>Come in, thou blessed of the Lord,</hi> did say.</l>
+                  <l>
+                     <hi>Christian,</hi> full glad of this, follow'd the <hi>Train,</hi>
+                  </l>
+                  <l>With Tears of Joy; remembring the Pain</l>
+                  <l>And Anguish which his soul had newly scap't;</l>
+                  <l>He could not walk; but as he went, he leapt.</l>
+                  <l>They call'd the <hi>Butler,</hi> Christian being dry,</l>
+                  <l>And bid the <hi>Cook</hi> get Supper speedily.</l>
+                  <l>Mean time, said they, <hi>we'll keep our custom up,</hi>
+                  </l>
+                  <l>Improve our time, until the time we sup.</l>
+                  <l>So they begun discourse, demanding how</l>
+                  <l>The Christian came to make so <hi>strange a vow</hi>
+                  </l>
+                  <l>As that of Pilgrimage? He Answer made,</l>
+                  <l>Relating all the Accidents he had,</l>
+                  <l>Till that same time. The Ladies then enquir'd,</l>
+                  <l>If he was <hi>marry'd,</hi> or to be desir'd?</l>
+                  <l>Then <hi>Christian</hi> wept, and said, I have a Wife,</l>
+                  <l>And Four small Children, in whom my Life</l>
+                  <l>Was once bound up; yet they, when once I had</l>
+                  <l>Talk't of a Pilgrimage, said, Sir, you'r mad!</l>
+                  <l>Surely you are: you will undo us all.</l>
+                  <l>But I broke from them, and leapt o're the Wall.</l>
+                  <pb n="33" facs="tcp:34933:20"/>
+                  <l>Then in my Dream I saw Supper come up,</l>
+                  <l>Wine well refin'd, in a Rich Golden Cup;</l>
+                  <l>Great Rari<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ies for meat: There might be Kings,</l>
+                  <l>The Board so furnisht was with all <hi>fat things.</hi>
+                  </l>
+                  <l>The Table-talk was also good and fine;</l>
+                  <l>About the Lord o'th' Hill, and things divine:</l>
+                  <l>The Lord's <hi>Atchievements</hi> in his Warlike Acts,</l>
+                  <l>Besides his Meekness, and his humble Tracts;</l>
+                  <l>
+                     <hi>His victory o'r Death,</hi> and him that had</l>
+                  <l>The power of that: which Conquest, tho it made</l>
+                  <l>
+                     <hi>Many deep wounds,</hi> and cost the choicest <hi>blood;</hi>
+                  </l>
+                  <l>No moving Cause, only the Countries good.</l>
+                  <l>Some in the house there were, who did report,</l>
+                  <l>Since <hi>Death,</hi> they saw him <hi>Live</hi> in's Father's Court;</l>
+                  <l>And heard him say, what well we may rely on,</l>
+                  <l>He will not dwell alone i'th' Mount of <hi>Sion:</hi>
+                  </l>
+                  <l>That <hi>Pilgrims, Princes</hi> there by him are made,</l>
+                  <l>Tho <hi>poor,</hi> or of the most Mechanick Trade.</l>
+                  <l>This talk was pleasant; so it held them late:</l>
+                  <l>And then the Christian, thro' a Room of State,</l>
+                  <l>They did conduct, towards his Nights repose,</l>
+                  <l>In an <hi>Apartment;</hi> upon which arose</l>
+                  <l>The Sun each morning: And 'twas called <hi>Peace.</hi>
+                  </l>
+                  <l>There <hi>Christian</hi> slept with great delight and ease,</l>
+                  <l>Till the next day; where waking, thus he sung</l>
+                  <l>So loud, I heard him; for the Room e'n Rung.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>What am I, Lord!</hi>
+                  </l>
+                  <l>
+                     <hi>Now that such Love</hi>
+                  </l>
+                  <l>
+                     <hi>Thus from Heaven</hi>
+                  </l>
+                  <l>
+                     <hi>To Earth should move,</hi>
+                  </l>
+                  <l>
+                     <hi>Towards a poor Pilgrim, in distress:</hi>
+                  </l>
+                  <l>
+                     <hi>In Joy I weep, I must confess:</hi>
+                  </l>
+                  <l>
+                     <hi>But these are pleasant Streams; for here</hi>
+                  </l>
+                  <l>
+                     <hi>No woe can wound, and Heaven so near.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
